@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on Delphi (RAD Studio)
 - 🌱 I’m currently learning C#, Phyton, JavaScript
-- 😄 Pronouns:  (he/him) (ele/dele)
+- 😄 Pronouns:  (he/him)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiegoGagliardi&show_icons=true&theme=radical)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiegoGagliardi&layout=compact&langs_count=7&theme=dracula"/>  
 
 
 <div style="display: inline_block"><br>
